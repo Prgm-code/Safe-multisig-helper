@@ -1,5 +1,5 @@
 # Safe SDK Multi-Signature Wallet Implementation for Goerli Testnet
-[![implementation Address](https://multisig-helper.dev.lat/)
+[implementation Address https://multisig-helper.dev.lat/](https://multisig-helper.dev.lat/)
 
 ## Overview
 
